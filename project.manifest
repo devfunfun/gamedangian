@@ -1,0 +1,10 @@
+{
+    "packageUrl": "https://covimask.lat/m/",
+    "searchPaths": [],
+    "assets": {
+    },
+    "remoteVersionUrl": "https://covimask.lat/m/version.manifest",
+    "version": "1.0.1",
+    "engineVersion": "3.17",
+    "remoteManifestUrl": "https://covimask.lat/m/project.manifest"
+}
